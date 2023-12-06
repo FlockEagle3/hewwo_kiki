@@ -1,5 +1,5 @@
 # hewwo_kiki
-The first half of the link is located in the page.
+The first half of the link is located in the code.
 The second half should be in this page.
 Or is it?
 
